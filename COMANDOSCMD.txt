@@ -1,0 +1,28 @@
+git status: Permite conocer el estado actual del archivo
+
+git init: Permite iniciar el repositorio
+
+git add:
+        atajos:
+             .: Agrega todos los archivos al projecto
+git commit:
+Agrega los cambios al starging area al repositorio
+          flats:
+              m: Agregar un mensaje
+              a: agregar archivos sin pasar al starging area
+git log: 
+Muestra todos los commits hechos
+
+git branch <NombreRama>:
+Crea una nueva rama
+
+git checkout <NombreRama>:
+Cambia de rama
+
+---------------------------------------------------------------------------------------------------------
+
+git remote: Muestra las concciones con repositorios remotos
+
+git pull <identificador> <rama>: Trae una rama del repositorio remoto
+
+git push <identificador> <rama>: Envia la informacion nueva de la rama
